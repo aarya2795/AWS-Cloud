@@ -1,0 +1,3 @@
+var bucketName = 'voicetranslatorappproject-voicetranslatorbucket-1l3g0dbz78dw2';
+var IdentityPoolId = 'us-east-1:c72dc7a3-8c17-4ccf-b5da-006abf692698';
+var lambdaFunction = 'VoiceTranslatorAppProject-VoiceTranslatorLambda-1ADCJYVTRGZGM';
